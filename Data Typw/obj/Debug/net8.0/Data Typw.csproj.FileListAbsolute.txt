@@ -1,0 +1,14 @@
+C:\Users\Reaz\source\repos\C#\Data Typw\bin\Debug\net8.0\Data Typw.exe
+C:\Users\Reaz\source\repos\C#\Data Typw\bin\Debug\net8.0\Data Typw.deps.json
+C:\Users\Reaz\source\repos\C#\Data Typw\bin\Debug\net8.0\Data Typw.runtimeconfig.json
+C:\Users\Reaz\source\repos\C#\Data Typw\bin\Debug\net8.0\Data Typw.dll
+C:\Users\Reaz\source\repos\C#\Data Typw\bin\Debug\net8.0\Data Typw.pdb
+C:\Users\Reaz\source\repos\C#\Data Typw\obj\Debug\net8.0\Data Typw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reaz\source\repos\C#\Data Typw\obj\Debug\net8.0\Data Typw.AssemblyInfoInputs.cache
+C:\Users\Reaz\source\repos\C#\Data Typw\obj\Debug\net8.0\Data Typw.AssemblyInfo.cs
+C:\Users\Reaz\source\repos\C#\Data Typw\obj\Debug\net8.0\Data Typw.csproj.CoreCompileInputs.cache
+C:\Users\Reaz\source\repos\C#\Data Typw\obj\Debug\net8.0\Data Typw.dll
+C:\Users\Reaz\source\repos\C#\Data Typw\obj\Debug\net8.0\refint\Data Typw.dll
+C:\Users\Reaz\source\repos\C#\Data Typw\obj\Debug\net8.0\Data Typw.pdb
+C:\Users\Reaz\source\repos\C#\Data Typw\obj\Debug\net8.0\Data Typw.genruntimeconfig.cache
+C:\Users\Reaz\source\repos\C#\Data Typw\obj\Debug\net8.0\ref\Data Typw.dll

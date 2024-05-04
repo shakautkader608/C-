@@ -1,0 +1,14 @@
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\bin\Debug\net8.0\Implicit and Explicit Conversion.exe
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\bin\Debug\net8.0\Implicit and Explicit Conversion.deps.json
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\bin\Debug\net8.0\Implicit and Explicit Conversion.runtimeconfig.json
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\bin\Debug\net8.0\Implicit and Explicit Conversion.dll
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\bin\Debug\net8.0\Implicit and Explicit Conversion.pdb
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\obj\Debug\net8.0\Implicit and Explicit Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\obj\Debug\net8.0\Implicit and Explicit Conversion.AssemblyInfoInputs.cache
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\obj\Debug\net8.0\Implicit and Explicit Conversion.AssemblyInfo.cs
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\obj\Debug\net8.0\Implicit and Explicit Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\obj\Debug\net8.0\Implicit and Explicit Conversion.dll
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\obj\Debug\net8.0\refint\Implicit and Explicit Conversion.dll
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\obj\Debug\net8.0\Implicit and Explicit Conversion.pdb
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\obj\Debug\net8.0\Implicit and Explicit Conversion.genruntimeconfig.cache
+C:\Users\Reaz\source\repos\C#\Implicit and Explicit Conversion\obj\Debug\net8.0\ref\Implicit and Explicit Conversion.dll

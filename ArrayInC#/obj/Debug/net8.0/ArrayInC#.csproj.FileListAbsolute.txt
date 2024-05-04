@@ -1,0 +1,14 @@
+C:\Users\Reaz\source\repos\C#\ArrayInC#\bin\Debug\net8.0\ArrayInC#.exe
+C:\Users\Reaz\source\repos\C#\ArrayInC#\bin\Debug\net8.0\ArrayInC#.deps.json
+C:\Users\Reaz\source\repos\C#\ArrayInC#\bin\Debug\net8.0\ArrayInC#.runtimeconfig.json
+C:\Users\Reaz\source\repos\C#\ArrayInC#\bin\Debug\net8.0\ArrayInC#.dll
+C:\Users\Reaz\source\repos\C#\ArrayInC#\bin\Debug\net8.0\ArrayInC#.pdb
+C:\Users\Reaz\source\repos\C#\ArrayInC#\obj\Debug\net8.0\ArrayInC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reaz\source\repos\C#\ArrayInC#\obj\Debug\net8.0\ArrayInC#.AssemblyInfoInputs.cache
+C:\Users\Reaz\source\repos\C#\ArrayInC#\obj\Debug\net8.0\ArrayInC#.AssemblyInfo.cs
+C:\Users\Reaz\source\repos\C#\ArrayInC#\obj\Debug\net8.0\ArrayInC#.csproj.CoreCompileInputs.cache
+C:\Users\Reaz\source\repos\C#\ArrayInC#\obj\Debug\net8.0\ArrayInC#.dll
+C:\Users\Reaz\source\repos\C#\ArrayInC#\obj\Debug\net8.0\refint\ArrayInC#.dll
+C:\Users\Reaz\source\repos\C#\ArrayInC#\obj\Debug\net8.0\ArrayInC#.pdb
+C:\Users\Reaz\source\repos\C#\ArrayInC#\obj\Debug\net8.0\ArrayInC#.genruntimeconfig.cache
+C:\Users\Reaz\source\repos\C#\ArrayInC#\obj\Debug\net8.0\ref\ArrayInC#.dll

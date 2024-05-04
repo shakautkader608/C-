@@ -1,0 +1,14 @@
+C:\Users\Reaz\source\repos\C#\Switch statement\bin\Debug\net8.0\Switch statement.exe
+C:\Users\Reaz\source\repos\C#\Switch statement\bin\Debug\net8.0\Switch statement.deps.json
+C:\Users\Reaz\source\repos\C#\Switch statement\bin\Debug\net8.0\Switch statement.runtimeconfig.json
+C:\Users\Reaz\source\repos\C#\Switch statement\bin\Debug\net8.0\Switch statement.dll
+C:\Users\Reaz\source\repos\C#\Switch statement\bin\Debug\net8.0\Switch statement.pdb
+C:\Users\Reaz\source\repos\C#\Switch statement\obj\Debug\net8.0\Switch statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reaz\source\repos\C#\Switch statement\obj\Debug\net8.0\Switch statement.AssemblyInfoInputs.cache
+C:\Users\Reaz\source\repos\C#\Switch statement\obj\Debug\net8.0\Switch statement.AssemblyInfo.cs
+C:\Users\Reaz\source\repos\C#\Switch statement\obj\Debug\net8.0\Switch statement.csproj.CoreCompileInputs.cache
+C:\Users\Reaz\source\repos\C#\Switch statement\obj\Debug\net8.0\Switch statement.dll
+C:\Users\Reaz\source\repos\C#\Switch statement\obj\Debug\net8.0\refint\Switch statement.dll
+C:\Users\Reaz\source\repos\C#\Switch statement\obj\Debug\net8.0\Switch statement.pdb
+C:\Users\Reaz\source\repos\C#\Switch statement\obj\Debug\net8.0\Switch statement.genruntimeconfig.cache
+C:\Users\Reaz\source\repos\C#\Switch statement\obj\Debug\net8.0\ref\Switch statement.dll

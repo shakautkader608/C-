@@ -1,0 +1,14 @@
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\bin\Debug\net8.0\Read & Write to Console.exe
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\bin\Debug\net8.0\Read & Write to Console.deps.json
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\bin\Debug\net8.0\Read & Write to Console.runtimeconfig.json
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\bin\Debug\net8.0\Read & Write to Console.dll
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\bin\Debug\net8.0\Read & Write to Console.pdb
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\obj\Debug\net8.0\Read & Write to Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\obj\Debug\net8.0\Read & Write to Console.AssemblyInfoInputs.cache
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\obj\Debug\net8.0\Read & Write to Console.AssemblyInfo.cs
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\obj\Debug\net8.0\Read & Write to Console.csproj.CoreCompileInputs.cache
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\obj\Debug\net8.0\Read & Write to Console.dll
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\obj\Debug\net8.0\refint\Read & Write to Console.dll
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\obj\Debug\net8.0\Read & Write to Console.pdb
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\obj\Debug\net8.0\Read & Write to Console.genruntimeconfig.cache
+C:\Users\Reaz\source\repos\C#\Read & Write to Console\obj\Debug\net8.0\ref\Read & Write to Console.dll

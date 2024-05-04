@@ -1,0 +1,14 @@
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\bin\Debug\net8.0\Nullable type of c#.exe
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\bin\Debug\net8.0\Nullable type of c#.deps.json
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\bin\Debug\net8.0\Nullable type of c#.runtimeconfig.json
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\bin\Debug\net8.0\Nullable type of c#.dll
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\bin\Debug\net8.0\Nullable type of c#.pdb
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\obj\Debug\net8.0\Nullable type of c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\obj\Debug\net8.0\Nullable type of c#.AssemblyInfoInputs.cache
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\obj\Debug\net8.0\Nullable type of c#.AssemblyInfo.cs
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\obj\Debug\net8.0\Nullable type of c#.csproj.CoreCompileInputs.cache
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\obj\Debug\net8.0\Nullable type of c#.dll
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\obj\Debug\net8.0\refint\Nullable type of c#.dll
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\obj\Debug\net8.0\Nullable type of c#.pdb
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\obj\Debug\net8.0\Nullable type of c#.genruntimeconfig.cache
+C:\Users\Reaz\source\repos\C#\Nullable type of c#\obj\Debug\net8.0\ref\Nullable type of c#.dll

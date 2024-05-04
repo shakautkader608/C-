@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Implicit and Explicit Conversion/1.0.0": {
+        "runtime": {
+          "Implicit and Explicit Conversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implicit and Explicit Conversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
